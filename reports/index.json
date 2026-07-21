@@ -1,0 +1,35 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260713-155315-ns4o",
+      "title": "C L A P P",
+      "commanders": [
+        "C L A P P"
+      ],
+      "dateStart": "2026-07-13T19:53:15.000Z",
+      "dateEnd": "2026-07-13T20:52:23.000Z",
+      "dateLabel": "7/13/2026, 3:53:15 PM - 7/13/2026, 4:52:23 PM",
+      "url": "https://Alexcionix.github.io/porr-wvw-logs/?report=20260713-155315-ns4o",
+      "summary": {
+        "borderlandsPct": 0.07692307692307693,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 29
+      }
+    }
+  ]
+}
