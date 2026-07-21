@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260721-162347-tyfv",
+      "title": "C L A P P",
+      "commanders": [
+        "C L A P P"
+      ],
+      "dateStart": "2026-07-21T20:23:47.000Z",
+      "dateEnd": "2026-07-21T20:59:54.000Z",
+      "dateLabel": "7/21/2026, 4:23:47 PM - 7/21/2026, 4:59:54 PM",
+      "url": "https://Alexcionix.github.io/porr-wvw-logs/?report=20260721-162347-tyfv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260720-161821-katl",
       "title": "C L A P P",
       "commanders": [
