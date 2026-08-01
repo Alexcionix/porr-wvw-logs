@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-234808-wftj",
+      "title": "P Ó R R",
+      "commanders": [
+        "P Ó R R"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-08-01T03:48:08.000Z",
+      "dateEnd": "2026-08-01T04:26:31.000Z",
+      "dateLabel": "7/31/2026, 11:48:08 PM - 8/1/2026, 12:26:31 AM",
+      "url": "https://Alexcionix.github.io/porr-wvw-logs/?report=20260731-234808-wftj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260728-160412-3oeq",
       "title": "C L A P P",
       "commanders": [
