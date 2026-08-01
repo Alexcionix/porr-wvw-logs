@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-224453-z5zn",
+      "title": "P Ó R R, Sho Long I Tripped",
+      "commanders": [
+        "P Ó R R",
+        "Sho Long I Tripped"
+      ],
+      "dateStart": "2026-08-01T02:44:53.000Z",
+      "dateEnd": "2026-08-01T04:26:31.000Z",
+      "dateLabel": "7/31/2026, 10:44:53 PM - 8/1/2026, 12:26:31 AM",
+      "url": "https://Alexcionix.github.io/porr-wvw-logs/?report=20260731-224453-z5zn",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260728-160412-3oeq",
       "title": "C L A P P",
       "commanders": [
