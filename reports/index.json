@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260804-161457-s3sb",
+      "title": "C L A P P",
+      "commanders": [
+        "C L A P P"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-04T20:14:57.000Z",
+      "dateEnd": "2026-08-04T20:47:52.000Z",
+      "dateLabel": "8/4/2026, 4:14:57 PM - 8/4/2026, 4:47:52 PM",
+      "url": "https://Alexcionix.github.io/porr-wvw-logs/?report=20260804-161457-s3sb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260803-160308-3m6n",
       "title": "C L A P P, I M A U L I",
       "commanders": [
