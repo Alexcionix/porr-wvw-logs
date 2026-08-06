@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-154951-p013",
+      "title": "I Snakë I",
+      "commanders": [
+        "I Snakë I"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-06T19:49:51.000Z",
+      "dateEnd": "2026-08-06T20:33:49.000Z",
+      "dateLabel": "8/6/2026, 3:49:51 PM - 8/6/2026, 4:33:49 PM",
+      "url": "https://Alexcionix.github.io/porr-wvw-logs/?report=20260806-154951-p013",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260805-160419-d2ng",
       "title": "Liquid I I",
       "commanders": [
