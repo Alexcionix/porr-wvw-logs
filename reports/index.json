@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260820-153255-ugij",
+      "title": "Liquid I I, Rufi The Bard",
+      "commanders": [
+        "Liquid I I",
+        "Rufi The Bard"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-20T19:32:55.000Z",
+      "dateEnd": "2026-08-20T21:01:29.407Z",
+      "dateLabel": "8/20/2026, 3:32:55 PM - 8/20/2026, 5:01:29 PM",
+      "url": "https://Alexcionix.github.io/porr-wvw-logs/?report=20260820-153255-ugij",
+      "summary": {
+        "borderlandsPct": 0.3333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260817-160105-9g1c",
       "title": "Itz Liquid",
       "commanders": [
