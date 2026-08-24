@@ -1,8 +1,41 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "teal-ocean",
   "glassSurfaces": false,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260824-161123-8ky5",
+      "title": "Necrorufus",
+      "commanders": [
+        "Necrorufus"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-24T20:11:23.000Z",
+      "dateEnd": "2026-08-24T20:52:18.979Z",
+      "dateLabel": "8/24/2026, 4:11:23 PM - 8/24/2026, 4:52:18 PM",
+      "url": "https://Alexcionix.github.io/porr-wvw-logs/?report=20260824-161123-8ky5",
+      "summary": {
+        "borderlandsPct": 0.1388888888888889,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 15
+      }
+    },
     {
       "id": "20260820-153255-ugij",
       "title": "Liquid I I, Rufi The Bard",
