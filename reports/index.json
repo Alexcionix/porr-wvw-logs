@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-162012-pwjg",
+      "title": "Rufi The Bard",
+      "commanders": [
+        "Rufi The Bard"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-26T20:20:12.000Z",
+      "dateEnd": "2026-08-26T21:03:30.702Z",
+      "dateLabel": "8/26/2026, 4:20:12 PM - 8/26/2026, 5:03:30 PM",
+      "url": "https://Alexcionix.github.io/porr-wvw-logs/?report=20260826-162012-pwjg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260824-161123-8ky5",
       "title": "Necrorufus",
       "commanders": [
